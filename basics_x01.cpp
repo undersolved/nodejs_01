@@ -16,5 +16,9 @@ int main(){
     }
     else{
         cout << "go to mama";
-    }
+    };
+
+    if(age=0){
+        cout << "chal bhaag";
+    };
 };
